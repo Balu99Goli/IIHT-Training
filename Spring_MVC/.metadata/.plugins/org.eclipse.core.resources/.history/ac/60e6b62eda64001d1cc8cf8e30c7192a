@@ -1,0 +1,8 @@
+package com.learn.core.SpringCoreDemo.ReferenceInjectionTest;
+
+import java.util.List;
+
+public class StudentSubjects {
+	private List<String> Subjects;
+
+}

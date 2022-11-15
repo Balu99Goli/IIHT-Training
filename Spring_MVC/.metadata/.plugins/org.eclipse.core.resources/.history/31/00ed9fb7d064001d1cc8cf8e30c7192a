@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:context="http://www.springframework.org/schema/context"
+ xmlns:p="http://www.springframework.org/schema/p"
+ xsi:schemaLocation="http://www.springframework.org/schema/beans
+ https://www.springframework.org/schema/beans/spring-beans.xsd
+ http://www.springframework.org/schema/context
+ http://www.springframework.org/schema/context/spring-context.xsd">
+ 
+ <!-- This is my bean for the class -->
+ 
+ <bean class="com.learn.core.SpringCoreDemo.Collection.Employee" name="emp1">
+ <property name="employeeName" value="Shekhar"/>
+ 
+ <property name="phones">
+ <list> 
+ <value>87654</value>
+ <value>543245</value>
+ </list>
+ </property>
+ 
+ <property name="addresses">
+ <set> 
+ <value>HYD</value>
+ <value>VIZAG</value>
+ </set>
+ </property>
+ 
+ <property name="courses">
+ <map> 
+ <entry key="Btech" value="Rgukt" />
+ <entry key="MBA" value="IIMA" />
+ </map>
+ </property>
+ 
+ </bean>
+</beans>

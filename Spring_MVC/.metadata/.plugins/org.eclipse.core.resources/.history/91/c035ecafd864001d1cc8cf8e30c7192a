@@ -1,0 +1,14 @@
+package com.learn.core.SpringCoreDemo.ReferenceInjection;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class RefTest {
+	
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("/com/learn/core/SpringCoreDemo/ReferenceInjection/RefConfig.xml");
+		Object2 obj2 =(Object2) context.getBean("object2");
+		System.out.println(obj2);
+	}
+
+}
