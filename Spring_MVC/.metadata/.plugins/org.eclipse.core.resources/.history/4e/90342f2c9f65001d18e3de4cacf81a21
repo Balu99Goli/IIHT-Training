@@ -1,0 +1,32 @@
+package com.learn.core.SpringCoreDemo.LifeCycle;
+
+public class MotorBike {
+	private String name;
+	private double price;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public double getPrice() {
+		return price;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+	public MotorBike() {
+		super();
+	}
+
+	@Override
+	public String toString() {
+		return "MotorBike [name=" + name + ", price=" + price + "]";
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.learn.core.SpringCoreDemo.LifeCycle;
+
+public class MotorBike {
+
+}
