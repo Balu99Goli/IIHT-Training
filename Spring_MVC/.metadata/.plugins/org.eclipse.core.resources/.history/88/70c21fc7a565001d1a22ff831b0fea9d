@@ -1,0 +1,5 @@
+package com.learn.core.SpringCoreDemo.DigitalBookEntity;
+
+public class Book {
+
+}

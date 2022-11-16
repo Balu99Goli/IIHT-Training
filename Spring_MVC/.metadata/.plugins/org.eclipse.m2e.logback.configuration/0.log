@@ -1088,3 +1088,44 @@
 2022-11-16 16:47:38,358 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
 2022-11-16 16:48:40,107 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-11-16 16:48:40,107 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 16:48:40,108 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 16:48:40,108 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:24:07,529 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-16 17:25:03,024 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:25:03,025 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:25:03,028 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:25:03,028 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:25:11,104 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:25:11,104 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:25:11,106 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:25:11,106 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:27:00,529 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:27:00,529 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:27:00,531 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:27:00,531 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:27:42,385 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:27:42,385 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:27:42,386 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:27:42,386 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:30:10,513 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:30:10,513 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:30:10,514 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:30:10,514 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:30:28,181 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:30:28,182 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:30:28,183 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:30:28,183 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:32:14,597 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:32:14,597 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:32:14,598 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:32:14,599 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:33:05,169 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:33:05,170 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:33:05,172 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:33:05,173 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:45:35,785 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:45:35,785 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
+2022-11-16 17:45:35,786 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:45:35,786 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\test\resources
+2022-11-16 17:46:24,537 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-16 17:46:24,538 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4442\Desktop\IIHT-Training\Spring_MVC\SpringCoreDemo\src\main\resources
