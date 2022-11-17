@@ -1801,3 +1801,228 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2022-11-16 17:41:14.529
 !MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:29.490
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:29.492
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:29.493
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:29.494
+!MESSAGE buffering callback sts4.classpath.Ywzwbrln StudentManagementApplication false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:29.495
+!MESSAGE executing callback sts4.classpath.Ywzwbrln 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:29.496
+!MESSAGE executing callback sts4.classpath.Ywzwbrln FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-11-17 14:21:29.496
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Ywzwbrln'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.738
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.739
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.741
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.744
+!MESSAGE buffering callback sts4.classpath.Ywzwbrln StudentManagementApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.744
+!MESSAGE executing callback sts4.classpath.Ywzwbrln 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.745
+!MESSAGE executing callback sts4.classpath.Ywzwbrln FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-11-17 14:21:38.745
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Ywzwbrln'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.920
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.922
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.925
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.929
+!MESSAGE buffering callback sts4.classpath.Ywzwbrln StudentManagementApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.929
+!MESSAGE executing callback sts4.classpath.Ywzwbrln 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:38.929
+!MESSAGE executing callback sts4.classpath.Ywzwbrln FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-11-17 14:21:38.930
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Ywzwbrln'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:40.502
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:40.503
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:40.505
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:40.508
+!MESSAGE buffering callback sts4.classpath.Ywzwbrln StudentManagementApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:40.509
+!MESSAGE executing callback sts4.classpath.Ywzwbrln 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:21:40.509
+!MESSAGE executing callback sts4.classpath.Ywzwbrln FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-11-17 14:21:40.509
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Ywzwbrln'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:16.606
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:16.607
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:16.611
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:16.614
+!MESSAGE buffering callback sts4.classpath.Ywzwbrln StudentManagementApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:16.614
+!MESSAGE executing callback sts4.classpath.Ywzwbrln 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:16.615
+!MESSAGE executing callback sts4.classpath.Ywzwbrln FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-11-17 14:22:16.615
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Ywzwbrln'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:58.762
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:58.763
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5f31385e[org.springframework.tooling.boot.ls:1.13.0.201911200938(id=632)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:22:58.764
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.589
+!MESSAGE Boot LS startup time from start to initialized: 6823ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.629
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WOcqVcwDisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.631
+!MESSAGE subscribing to classpath changes: sts4.classpath.WOcqVcwD isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.632
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.633
+!MESSAGE subsribers = {sts4.classpath.Ywzwbrln=Send Classpath Notifications(66), sts4.classpath.WOcqVcwD=Send Classpath Notifications(1020)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.634
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.636
+!MESSAGE project StudentManagementApplication ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.637
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.638
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.639
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.641
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.642
+!MESSAGE project SpringCoreDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.643
+!MESSAGE project SpringMvcDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.644
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.645
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WOcqVcwD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.650
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.653
+!MESSAGE buffering callback sts4.classpath.WOcqVcwD StudentManagementApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.654
+!MESSAGE Preparing classpath changed notification SpringCoreDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.655
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.656
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.657
+!MESSAGE buffering callback sts4.classpath.WOcqVcwD SpringCoreDemo false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.657
+!MESSAGE Preparing classpath changed notification SpringMvcDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.658
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.659
+!MESSAGE classpath=47 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.660
+!MESSAGE buffering callback sts4.classpath.WOcqVcwD SpringMvcDemo false 47
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.661
+!MESSAGE executing callback sts4.classpath.WOcqVcwD 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.691
+!MESSAGE executing callback sts4.classpath.WOcqVcwD SUCCESS [done]
