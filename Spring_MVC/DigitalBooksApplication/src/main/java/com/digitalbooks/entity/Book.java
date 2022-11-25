@@ -18,6 +18,22 @@ public class Book {
 	private String logo;
 	private String publisher;
 	private String publishedDate;
+	private String subscriptionId;
+	private String invoiceId;
+	public String getInvoiceId() {
+		return invoiceId;
+	}
+	public void setInvoiceId(String invoiceId) {
+		this.invoiceId = invoiceId;
+	}
+	public String getSubscriptionId() {
+		return subscriptionId;
+	}
+	public void setSubscriptionId(String subscriptionId) {
+		this.subscriptionId = subscriptionId;
+	}
+	
+	
 	public Integer getBookId() {
 		return bookId;
 	}
@@ -80,6 +96,22 @@ public class Book {
 	}
 	
 	
+	
+	
+	public Book(Integer bookId, String title, String category, String author, Double price, String logo,
+			String publisher, String publishedDate, String subscriptionId, String invoiceId) {
+		super();
+		this.bookId = bookId;
+		this.title = title;
+		this.category = category;
+		this.author = author;
+		this.price = price;
+		this.logo = logo;
+		this.publisher = publisher;
+		this.publishedDate = publishedDate;
+		this.subscriptionId = subscriptionId;
+		this.invoiceId = invoiceId;
+	}
 	public Book(Integer bookId, String title, String category, String author, Double price, String logo,
 			String publisher, String publishedDate) {
 		super();
